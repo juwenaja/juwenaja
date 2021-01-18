@@ -26,7 +26,4 @@ Here are some ideas to get you started:
 </P>
 
 
-Intinya gw gatau mau ngapain 
-
-
-follow ig gw dong | www.instagram.com/juwendy_s
+Intinya gw gatau mau ngapain, terus lu ngapa masih disini
