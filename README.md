@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **juwenaja/juwenaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +16,10 @@ Here are some ideas to get you started:
 <img src="https://avatars0.githubusercontent.com/u/76975675?s=460&u=2ded539def22cee13a92c9253a0726bacd1bb46b&v=4" alt="image" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="ZXCBOT" src="https://img.shields.io/badge/ZXCBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="" src="https://img.shields.io/badge/Hi there 👋-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/juwenaja"><img title="Author" src="https://img.shields.io/badge/Recode by-Juwen-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/juwenaja"><img title="Author" src="https://img.shields.io/badge/This Is-Juwen-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align='center'>
    <a href="https://instagram.com/juwendy_s"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
