@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 </P>
 
 
-##Intinya gw gatau mau ngapain, terus lu ngapa masih disini
+## Intinya gw gatau mau ngapain, terus lu ngapa masih disini
