@@ -1,5 +1,5 @@
 # ZefianAlfian
-Hi, I'm Rizqi, My Full Name Is Muhammad Rizqi Rammadhan, Or you Can call me as Rizqi, I'm an 12 y.o Coder. and I'm still a student at SD Islam Baiturrahim Sampit Kalimantan Tengah
+Hi, I'm Juwenajaa, My Full Name Juwendi S, Or you Can call me as Juwen. Gapunya skil coding tapi sedang mempelajari. Cuman bisa recode gabisa bikin sesuatu yang baru.
 <br>
 ## &#x1F919; Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsnothingnow)
@@ -10,5 +10,5 @@ Hi, I'm Rizqi, My Full Name Is Muhammad Rizqi Rammadhan, Or you Can call me as R
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZefianAlfian&layout=compact&hide_border=true" />
 </a>
 <a href="https://github.com/juwenaja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZefianAlfian&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="sProDev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juwenaja&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="sProDev's GitHub Stats" />
 </a>
