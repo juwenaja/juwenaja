@@ -1,4 +1,4 @@
-## Hello There, [@juwenajaa](https://instagram.com/juwendy_s) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+## Hello There, [Iam @juwenajaa](https://instagram.com/juwendy_s) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 
 Hi. Aku juwenaja, nama lengkap aku Juwendi S, tapi kamu bisa memanggil aku juwen. Gapunya skil coding tapi sedang mempelajari. Cuman bisa recode gabisa bikin sesuatu yang baru.
