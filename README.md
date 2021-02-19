@@ -1,29 +1,14 @@
-<!--
-**juwenaja/juwenaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-<img src="https://avatars0.githubusercontent.com/u/76975675?s=460&u=2ded539def22cee13a92c9253a0726bacd1bb46b&v=4" alt="image" width="128" height="128"/>
-</p>
-<p align="center">
-<a href="#"><img title="" src="https://img.shields.io/badge/Hi there 👋-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/juwenaja"><img title="Author" src="https://img.shields.io/badge/This Is-Juwen-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align='center'>
-   <a href="https://instagram.com/juwendy_s"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-</P>
-
-
-## Intinya gw gatau mau ngapain, terus lu ngapa masih disini
+# ZefianAlfian
+Hi, I'm Rizqi, My Full Name Is Muhammad Rizqi Rammadhan, Or you Can call me as Rizqi, I'm an 12 y.o Coder. and I'm still a student at SD Islam Baiturrahim Sampit Kalimantan Tengah
+<br>
+## &#x1F919; Connect With Me
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsnothingnow)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juwendy_s)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289635687240)
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/juwenaja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZefianAlfian&layout=compact&hide_border=true" />
+</a>
+<a href="https://github.com/juwenaja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZefianAlfian&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="sProDev's GitHub Stats" />
+</a>
