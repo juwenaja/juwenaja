@@ -1,4 +1,4 @@
-src="https://crhscountyline.com/wp-content/uploads/2020/03/Capture.png</a>&nbsp;&nbsp;</p>
+src="https://crhscountyline.com/wp-content/uploads/2020/03/Capture.png"></a>&nbsp;&nbsp;</p>
 ## Hello There, [Iam juwenajaa](https://instagram.com/juwendy_s) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 
