@@ -4,7 +4,7 @@ src="https://crhscountyline.com/wp-content/uploads/2020/03/Capture.png"></a>&nbs
 ## Hello There, [iam juwennn](https://instagram.com/juwendy_s) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
 
-Hi. aku juwen, nama lengkap aku Juwendi S, tapi kamu bisa memanggil aku wen. Gapunya skil coding tapi sedang mempelajari. Cuman bisa recode gabisa bikin sesuatu yang baru.
+Hii. aku juwen, Gapunya skil coding tapi sedang mempelajari. Cuman bisa copy paste, dan juga cuman bisa recode gabisa bikin sesuatu yang baru.
 <br>
 ## &#x1F919; Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsnothingnow)
